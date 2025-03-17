@@ -2,7 +2,7 @@ isim = input(" Adınızı girin: ")
 yas = int(input(" Yaşınızı girin: "))
 dogumYili = int(input(" Doğum yılınızı girin: "))
 
-print(f"Merhaba {isim}! {yas} yaşındasın ve {dogum_yili} yılında doğmuşsun.")
+print(f"Merhaba {isim}! {yas} yaşındasın ve {dogumYili} yılında doğmuşsun.")
 
 
 
