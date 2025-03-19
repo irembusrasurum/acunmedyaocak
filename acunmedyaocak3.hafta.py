@@ -23,7 +23,7 @@ print(f"{sayi}! = {faktoriyel}")
 
 def asal_mi(n):
     if n < 2:
-        return Falses
+        return False
     for a in range(2, int(n**0.5) + 1):  
         if n % a == 0:
             return False
